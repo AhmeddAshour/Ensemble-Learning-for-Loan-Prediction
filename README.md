@@ -1,4 +1,4 @@
-# Ensemble Learning in Machine Learning for Loan Prediction
+# Ensemble Learning for Loan Prediction
 
 ## Objective
 The objective of this project is to explore and compare multiple ensemble learning techniques to predict the loan status of a person based on various parameters. I used default_of_credit_card_clients.xls dataset, perform data analysis, feature extraction, and apply various ensemble learning techniques to evaluate and compare their predictive performance.
